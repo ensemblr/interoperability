@@ -13,4 +13,7 @@ Possible Approaches :
 2. Web services and other service-oriented architectures (probably the most modern approach)
 3. IPC; Inter Process Communication
 
+An important part of the framework will be a parallel, cluster based system that can combine and manage multiple machines for the working of code. This can be done using MPI (Message Passing Interface).
+
+Also, DSL (Domain Specific Language) based graph parsing, graph optimization and graph clustering algorithms (DAGs) can be used to make these things faster.
 
